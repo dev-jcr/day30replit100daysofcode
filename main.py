@@ -1,4 +1,5 @@
 # f-strings I
+
 print("30 Days Down")
 for i in range(1, 31):
   print(f"\n\nDay {i}")
